@@ -1,0 +1,7 @@
+1) Setelah download dan extract file, satukan semua file yang ada di rar ini menjadi ke dalam 1 folder. misalnya Object Detection
+2) download yolov3.weights pada link ini : https://pjreddie.com/media/files/yolov3.weights
+3) setelah download yolov3.weights, taro file yolov3.weights tersebut di dalam satu folder pada step nomor 1. Berarti taro di folder Object Detection
+4) Buka visual studio code
+5) Open folder Object Detection yang telah dibuat sebelumnya
+6) Klik pada file .py yang diinginkan
+7) Klik run and debug untuk menjalankan
